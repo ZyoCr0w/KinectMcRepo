@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": "Boton de desinstalar + auto-actualizacion del instalador",
   "filename": "KinectMC_Installer.exe",
-  "sha256": "A2E86A5C66F891E38934E340EE631FAD5D1EA89D1CE7D6501C8AADCFFB14A62F"
+  "sha256": "6BB7DC6766376003975BE19234DFF7637ECB7DBD3869DCCFF915AA7B991FE2D5"
 }
